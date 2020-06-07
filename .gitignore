@@ -21,3 +21,53 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+
+### Others ###
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.gradle
+*.sw?
+.#*
+*#
+*~
+/build
+/code
+.metadata
+.recommenders
+build
+lib/
+target
+interpolated*.xml
+dependency-reduced-pom.xml
+build.log
+_site/
+.*.md.html
+manifest.yml
+settings.xml
+activemq-data
+overridedb.*
+*.jar
+.DS_Store
+dump.rdb
+transaction-logs
